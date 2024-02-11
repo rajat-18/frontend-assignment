@@ -1,0 +1,27 @@
+{
+  "name": "frontend-assignment",
+  "version": "1.0.0",
+  "description": "The task is to create and deploy a simple Next.js - React app.",
+  "main": "index.js",
+  "scripts": {
+    "start": "next dev",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/rajat-18/frontend-assignment.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/rajat-18/frontend-assignment/issues"
+  },
+  "homepage": "https://github.com/rajat-18/frontend-assignment#readme",
+  "dependencies": {
+    "bootstrap": "^5.3.2",
+    "next": "^14.1.0",
+    "react": "^18.2.0",
+    "react-dom": "^18.2.0",
+    "react-icons": "^5.0.1"
+  }
+}
